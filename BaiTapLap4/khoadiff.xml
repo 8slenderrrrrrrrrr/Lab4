@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet>
+    <KHOA diffgr:id="KHOA1" msdata:rowOrder="0" diffgr:hasChanges="modified">
+      <MaKhoa>CNTT</MaKhoa>
+      <TenKhoa>Công nghệ thông tin</TenKhoa>
+      <NamThanhLap>2000</NamThanhLap>
+    </KHOA>
+    <KHOA diffgr:id="KHOA2" msdata:rowOrder="1">
+      <MaKhoa>GDTH</MaKhoa>
+      <TenKhoa>Giáo Dục Tiều Học</TenKhoa>
+      <NamThanhLap>1970</NamThanhLap>
+    </KHOA>
+  </NewDataSet>
+  <diffgr:before>
+    <KHOA diffgr:id="KHOA1" msdata:rowOrder="0">
+      <MaKhoa>CNTT</MaKhoa>
+      <TenKhoa>Công nghệ thông tin</TenKhoa>
+      <NamThanhLap>1995</NamThanhLap>
+    </KHOA>
+  </diffgr:before>
+</diffgr:diffgram>
